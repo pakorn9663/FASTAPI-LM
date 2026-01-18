@@ -1,6 +1,6 @@
 services:
-  api-siwapan:
+  api-pakorn:
     build: .
     ports:
-      - "8001:8000"
+      - "8569:8000"
     restart: always
